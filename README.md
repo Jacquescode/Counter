@@ -1,4 +1,4 @@
-# Counter
+# Counter Project
 
 Project number 2/15 of "Build 15 JavaScript Projects - Vanilla JavaScript Course" from Freecodecamp created by John Smilga
 
